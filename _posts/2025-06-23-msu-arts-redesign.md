@@ -3,7 +3,7 @@ layout: post
 title: "MSU ARTS Website Redesign"
 subtitle: "User-Centered Design Project"
 cover-img: /assets/img/msu-arts.jpg
-thumbnail-img: /assets/img/msu-arts-thumb.jpg
+thumbnail-img: /assets/img/msu-arts-thumb.JPG
 tags: [UX, web-design, teamwork]
 ---
 
