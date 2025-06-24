@@ -17,7 +17,7 @@
 
 /* ===== Custom Navbar Background ===== */
 .navbar-custom {
-  background: url('assets/img/clover.jpg') no-repeat center center !important;
+  background: ('assets/img/clover.jpg') no-repeat center center !important;
   background-size: cover !important;
   border: none !important;
 }
