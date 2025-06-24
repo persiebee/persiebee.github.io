@@ -15,3 +15,14 @@
     transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
 }
 
+/* Override sidebar/header background */
+.sidebar, .header-bar {
+  background: url('/assets/img/clover.JPG') no-repeat center center;
+  background-size: cover;
+}
+
+/* Ensure text remains readable */
+.sidebar a, .header-bar h1, .header-bar h2 {
+  color: white !important;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+}
