@@ -32,7 +32,7 @@ Inspired by institutions like the Art Institute of Chicago, we prioritized bold 
 *Collapsible mobile menu for on-the-go access.*  
 
 #### Documentation  
-- [User FlowChart](https://drive.google.com/survey-data) (Flow and Traffic through the original website)  
+- [User FlowChart](flows.JPG) (Flow and Traffic through the original website)  
 - [Card Sorting Report](https://drive.google.com/card-sort) (Thematic clusters and insights)  
 - [Client Presentation](https://docs.google.com/presentation/d/1kS9PdgfxMxIDpOp23N6uP5xIbRx4Rdsb7liWUFNrDHc/edit) (Final pitch deck)  
 
