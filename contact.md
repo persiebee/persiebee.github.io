@@ -36,23 +36,16 @@ title: Contact Me
     font-size: 16px;
   }
   button {
- /* Target ONLY the contact form submit button */
-form[action="https://formspree.io/f/xeokrdqb"] button[type="submit"] {
-  font-family: var(--header-font);
-  font-weight: 800;
-  line-height: 1.1;
-  /* Keep existing styles */
-  background: #6a994e;
-  color: white;
-  padding: 12px 25px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-  transition: background 0.3s;
-}
-
-/* Hover state */
-form[action="https://formspree.io/f/xeokrdqb"] button[type="submit"]:hover {
-  background: #386641;
-}
+    background: #6a994e;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  button:hover {
+    background: #386641; /* Darker green */
+  }
 </style>
