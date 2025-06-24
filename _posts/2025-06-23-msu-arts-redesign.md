@@ -25,10 +25,10 @@ Inspired by institutions like the Art Institute of Chicago, we prioritized bold 
 - **Integrated Outreach:** Social media feeds and newsletter signups positioned prominently.  
 
 #### Project Deliverables  
-![Desktop Prototype](deskprop.JPG)  
+![Desktop Prototype](/assets/img/deskprop.JPG)  
 *Final homepage design with event highlights and clear CTAs.*  
 
-![Mobile Prototype](banphon.JPG)  
+![Mobile Prototype](/assets/img/banphon.JPG)  
 *Collapsible mobile menu for on-the-go access.*  
 
 #### Documentation  
