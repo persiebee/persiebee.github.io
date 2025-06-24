@@ -3,8 +3,7 @@ layout: page
 title: Contact Me
 ---
 ## Contact Methods
-📧 [Email Me](mailto:persone3@msu.edu)  
-📞 [734-808-2448](tel:7348082448)
+## [Email Me](mailto:persone3@msu.edu)  
 
 <form action="https://formspree.io/f/xeokrdqb" method="POST">
   <label>Your Name:</label>
