@@ -2,6 +2,9 @@
 layout: page
 title: Contact Me
 ---
+## Contact Methods
+📧 [Email Me](mailto:persone3@msu.edu)  
+📞 [734-808-2448](tel:7348082448)
 
 <form action="https://formspree.io/f/xeokrdqb" method="POST">
   <label>Your Name:</label>
@@ -42,6 +45,7 @@ title: Contact Me
     border: none;
     border-radius: 4px;
     font-size: 16px;
+    font-family: "Montserrat", "Helvetica Neue", sans-serif;
     cursor: pointer;
     transition: background 0.3s;
   }
