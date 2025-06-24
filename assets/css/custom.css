@@ -22,3 +22,12 @@
   border: none !important;
 }
 
+/* Add white background behind nav text */
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link {
+  background-color: white !important;
+  padding: 5px 10px !important;
+  border-radius: 4px !important;
+  margin: 0 2px !important;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1) !important;
+}
