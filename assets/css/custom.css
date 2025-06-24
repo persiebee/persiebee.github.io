@@ -15,14 +15,21 @@
     transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
 }
 
-/* Override sidebar/header background */
-.sidebar, .header-bar {
-  background: url('/assets/img/clover.JPG') no-repeat center center;
-  background-size: cover;
+/* ===== Custom Navbar Background ===== */
+.navbar-custom {
+  background: url('assets/img/clover.jpg') no-repeat center center !important;
+  background-size: cover !important;
+  border: none !important;
 }
 
-/* Ensure text remains readable */
-.sidebar a, .header-bar h1, .header-bar h2 {
-  color: white !important;
-  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+/* Dark overlay for readability */
+.navbar-custom::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.3);
+  z-index: 0;
 }
