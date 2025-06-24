@@ -1,13 +1,16 @@
-/* Green hover effect for social icons */
-.social-network-links a:hover {
-    color: #6a994e !important;  /* Your chosen green */
-    text-shadow: 0 0 5px rgba(106, 153, 78, 0.3); /* Subtle glow */
-    transform: scale(1.15);
-    transition: all 0.2s ease-in-out;
+/* Change social icon circles to green on hover */
+.list-inline.footer-links a:hover .fa-circle {
+    color: #6a994e !important;
+    transition: all 0.3s ease;
 }
 
-/* Optional: Make default state more subtle */
-.social-network-links a {
-    color: #6c757d; /* Default gray */
-    transition: all 0.2s ease-in-out; /* Smooth transition */
+/* Make icons white inside circles */
+.list-inline.footer-links .fa-inverse {
+    color: white !important;
+}
+
+/* Optional: Add pulse animation */
+.list-inline.footer-links a:hover {
+    transform: scale(1.1);
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
 }
