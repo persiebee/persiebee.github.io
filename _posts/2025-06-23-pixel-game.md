@@ -4,7 +4,7 @@ title: "2D Pixel Shooter Game"
 subtitle: "Unity Game Development"
 cover-img: /assets/img/frogblow.JPG
 thumbnail-img: /assets/img/pixel-game.JPG
-tags: [gamedev, C#, unity]
+tags: [gamedev, design, unity]
 ---
 ### Game Design Project  
 **Games and Interactivity – 2D Pixel Shooter Game**  
