@@ -44,6 +44,7 @@ title: Contact Me
     border: none;
     border-radius: 4px;
     font-size: 16px;
+    font-weight: 800
     font-family: "Montserrat", "Helvetica Neue", sans-serif;
     cursor: pointer;
     transition: background 0.3s;
