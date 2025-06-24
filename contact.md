@@ -43,8 +43,6 @@ title: Contact Methods
     border: none;
     border-radius: 4px;
     font-size: 16px;
-    font-family: "Montserrat", "Helvetica Neue", sans-serif;
-    font-weight: 800
     cursor: pointer;
     transition: background 0.3s;
   }
