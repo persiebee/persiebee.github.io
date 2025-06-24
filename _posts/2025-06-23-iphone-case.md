@@ -3,7 +3,7 @@
 layout: post
 title: "iPhone Case Design"
 subtitle: "Engineering Design Process"
-cover-img: /assets/img/iphone-case.jpg
+cover-img: /assets/img/iphone-case.JPG
 thumbnail-img: /assets/img/iphone-case-thumb.jpg
 tags: [CAD, 3D-modeling, fusion360]
 ---
