@@ -25,15 +25,15 @@ Inspired by institutions like the Art Institute of Chicago, we prioritized bold 
 - **Integrated Outreach:** Social media feeds and newsletter signups positioned prominently.  
 
 #### Project Deliverables  
-![Desktop Prototype](artsmsu-desktop.png)  
+![Desktop Prototype](deskprop.JPG)  
 *Final homepage design with event highlights and clear CTAs.*  
 
-![Mobile Prototype](artsmsu-mobile.png)  
+![Mobile Prototype](banphon.JPG)  
 *Collapsible mobile menu for on-the-go access.*  
 
 #### Documentation  
 - [User FlowChart](flows.JPG) (Flow and Traffic through the original website)  
-- [Card Sorting Report](https://drive.google.com/card-sort) (Thematic clusters and insights)  
+- [Card Sorting Report](cardso.JPG) (Thematic clusters and insights)  
 - [Client Presentation](https://docs.google.com/presentation/d/1kS9PdgfxMxIDpOp23N6uP5xIbRx4Rdsb7liWUFNrDHc/edit) (Final pitch deck)  
 
 **Skills Applied:**  
