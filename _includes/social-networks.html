@@ -1,0 +1,36 @@
+<ul class="list-inline text-center footer-links">
+  <!-- Contact Page Link (with envelope icon) -->
+  <li class="list-inline-item">
+    <a href="{{ site.social-network-links.contact }}" title="Contact Me">
+      <span class="fa-stack fa-lg">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+  </li>
+  
+  <!-- Other Social Links -->
+  {% if site.social-network-links.phone %}
+  <li class="list-inline-item">
+    <a href="tel:{{ site.social-network-links.phone }}" title="Call Me">
+      <span class="fa-stack fa-lg">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-phone fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+  </li>
+  {% endif %}
+  
+  {% if site.social-network-links.linkedin %}
+  <li class="list-inline-item">
+    <a href="https://linkedin.com/in/{{ site.social-network-links.linkedin }}" title="LinkedIn">
+      <span class="fa-stack fa-lg">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+  </li>
+  {% endif %}
+  
+  <!-- Add other social links following same pattern -->
+</ul>
