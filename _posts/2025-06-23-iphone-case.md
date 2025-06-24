@@ -30,13 +30,13 @@ This course provided my first structured experience with the engineering design 
 - Durable TPU material edges  
 
 #### Project Deliverables  
-![Side View](sidep.png)  
+![Side View](/assets/img/sidep.png)  
 *Pop-socket extended view*
 
-![Top View](slantp.png)  
+![Top View](/assets/img/slantp.png)  
 *Rotated interior view*
 
-![Final Design](finalp.png)  
+![Final Design](/assets/img/finalp.png)  
 *Production-ready prototype*
 
 #### Documentation  
