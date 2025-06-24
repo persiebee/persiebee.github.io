@@ -95,8 +95,8 @@ skills:
 theme_skin: green
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#008208"  # Purple accent
-hover-col: "#18453B"
+link-col: "#adc178"  # Purple accent
+hover-col: "#6a994e"
 
 # Footer
 footer-col: "#F8F9FA"
