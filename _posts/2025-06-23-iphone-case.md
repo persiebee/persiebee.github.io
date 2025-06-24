@@ -33,7 +33,7 @@ This course provided my first structured experience with the engineering design 
 ![Side View](sidep.png)  
 *Pop-socket extended view*
 
-![Top View](/assets/img/case-top.jpg)  
+![Top View](slantp.png)  
 *Rotated interior view*
 
 ![Final Design](finalp.png)  
