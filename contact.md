@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Contact Me
+title: Contact Methods
 ---
-## Contact Methods
-## [Email Me](mailto:persone3@msu.edu)  
+## [Email Me!](mailto:persone3@msu.edu)  
 
 <form action="https://formspree.io/f/xeokrdqb" method="POST">
   <label>Your Name:</label>
