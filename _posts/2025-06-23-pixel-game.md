@@ -32,6 +32,7 @@ In this course, I explored the full cycle of game creation from initial design t
 - Custom particle effects  
 - Sound effect integration (including "licky" tongue attacks)  
 
-[Play on itch.io](https://po0ok.itch.io/frogfighter) *(Note: Some UI elements may not display correctly)*  
+[Play on itch.io](https://po0ok.itch.io/frogfighter)  *(Note: Some UI elements may not display correctly, sorry!)*  
 
+[See project details](https://persone3.msu.domains/portfolio/sample-page/)
 
