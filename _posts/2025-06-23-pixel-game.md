@@ -3,7 +3,7 @@ layout: post
 title: "2D Pixel Shooter Game"
 subtitle: "Unity Game Development"
 cover-img: /assets/img/pixel-game.JPG
-thumbnail-img: /assets/img/pixel-game-thumb.jpg
+thumbnail-img: /assets/img/pixel-game.JPG
 tags: [gamedev, C#, unity]
 ---
 
