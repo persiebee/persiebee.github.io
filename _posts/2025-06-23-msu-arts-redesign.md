@@ -28,7 +28,7 @@ Inspired by institutions like the Art Institute of Chicago, we prioritized bold 
 ![Desktop Prototype](/assets/img/deskprop.JPG)  
 *Final homepage design with event highlights and clear CTAs.*  
 
-![Mobile Prototype](/assets/img/banphon.JPG)  
+![Mobile Prototype](/assets/img/phoneprop.JPG)  
 *Collapsible mobile menu for on-the-go access.*  
 
 #### Documentation  
