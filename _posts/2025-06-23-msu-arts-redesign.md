@@ -2,8 +2,8 @@
 layout: post
 title: "ARTS MSU Website Redesign"
 subtitle: "UX Research & Client Collaboration"
-cover-img: /assets/img/artsmsu-banner.jpg
-thumbnail-img: /assets/img/artsmsu-thumb.jpg
+cover-img: /assets/img/ban.JPG
+thumbnail-img: /assets/img/artsmsu-thumb.JPG
 tags: [UX-Design, User-Research, Client-Work, Figma]
 ---
 
