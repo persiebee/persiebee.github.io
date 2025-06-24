@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Experience Architecture Major | Computer Science Minor
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Hello! I'm Breeanna Personett
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm passionate about blending design and development to create intuitive digital experiences. My background in culinary arts taught me precision and creativity - skills I now apply to UX design and coding.
 
-What else do you need?
+**What drives me:**
+- Creating technology that's both beautiful and functional
+- Solving real user problems through thoughtful design
+- Continuous learning in both design and development
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+When I'm not designing, you'll find me gaming, fishing, or experimenting with new recipes!
