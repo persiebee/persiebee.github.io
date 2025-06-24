@@ -4,6 +4,12 @@ title: Contact Methods
 ---
 ## [Email Me!](mailto:persone3@msu.edu)  
 
+<div class="text-center">
+  <a href="mailto:persone3@msu.edu" class="btn btn-green">
+    <i class="fas fa-envelope"></i> Email Directly
+  </a>
+</div>
+
 <form action="https://formspree.io/f/xeokrdqb" method="POST">
   <label>Your Name:</label>
   <input type="text" name="name" required>
