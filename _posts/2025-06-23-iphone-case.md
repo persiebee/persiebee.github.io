@@ -36,7 +36,7 @@ This course provided my first structured experience with the engineering design 
 ![Top View](/assets/img/case-top.jpg)  
 *Rotated interior view*
 
-![Final Design](/assets/img/case-final.jpg)  
+![Final Design](finalp.png)  
 *Production-ready prototype*
 
 #### Documentation  
