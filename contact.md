@@ -44,6 +44,7 @@ title: Contact Me
     font-size: 16px;
     cursor: pointer;
     transition: background 0.3s;
+    font-family: inherit;
   }
   button:hover {
     background: #386641; /* Darker green */
