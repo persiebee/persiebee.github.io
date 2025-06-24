@@ -34,8 +34,8 @@ Inspired by institutions like the Art Institute of Chicago, we prioritized bold 
 </div>
 
 #### Documentation  
-- [User FlowChart](flows.JPG) (Flow and Traffic through the original website)  
-- [Card Sorting Report](cardso.JPG) (Thematic clusters and insights)  
+- [User FlowChart](/assets/img/flows.JPG) (Flow and Traffic through the original website)  
+- [Card Sorting Report](/assets/img/cardso.JPG) (Thematic clusters and insights)  
 - [Client Presentation](https://docs.google.com/presentation/d/1kS9PdgfxMxIDpOp23N6uP5xIbRx4Rdsb7liWUFNrDHc/edit) (Final pitch deck)  
 
 **Skills Applied:**  
