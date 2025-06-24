@@ -1,11 +1,13 @@
-/* Change social icons to green on hover */
+/* Green hover effect for social icons */
 .social-network-links a:hover {
-    color: #6a994e !important; /* Bootstrap green */
-    transform: scale(1.2); /* Makes them slightly bigger on hover */
-    transition: all 0.3s ease; /* Smooth animation */
+    color: #6a994e !important;  /* Your chosen green */
+    text-shadow: 0 0 5px rgba(106, 153, 78, 0.3); /* Subtle glow */
+    transform: scale(1.15);
+    transition: all 0.2s ease-in-out;
 }
 
-/* Optional: Change default icon color */
+/* Optional: Make default state more subtle */
 .social-network-links a {
-    color: #6c757d; /* Gray default */
+    color: #6c757d; /* Default gray */
+    transition: all 0.2s ease-in-out; /* Smooth transition */
 }
