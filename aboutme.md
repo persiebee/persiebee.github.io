@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: Experience Architecture Major | Computer Science Minor
+subtitle: Experience Architecture Major | Information Technology Minor
 ---
 
 ### Hello! I'm Breeanna Personett
