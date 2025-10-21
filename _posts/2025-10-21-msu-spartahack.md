@@ -9,7 +9,7 @@ tags: [UX-Design, UI-Design, PixelArt, Figma, Procreate]
 ### Event Design & Web Prototyping  
 **SpartaHack 11 – MSU 24-Hour Hackathon**  
 
-SpartaHack is Michigan State University’s annual 24-hour hackathon where hundreds of students collaborate to build apps, games, and innovative projects. As part of the **Operations Team**, I focused on **design and web prototyping** for this year’s event theme — **Pixel Art**.
+SpartaHack is Michigan State University’s annual 24-hour hackathon where hundreds of students collaborate to build apps, games, and innovative projects. As part of the **Operations Team**, I’m currently focusing on design and web prototyping for this year’s event theme — **Pixel Art**.
 
 **Key Features:**  
 - Designed custom pixel art assets and icons to establish a cohesive event theme  
