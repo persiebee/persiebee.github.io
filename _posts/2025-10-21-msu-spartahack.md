@@ -26,7 +26,7 @@ SpartaHack is Michigan State University’s annual 24-hour hackathon where hundr
    - Redesigned website structure to enhance participant navigation  
    - Applied responsive layout principles for mobile and desktop views  
    - Ensured visual hierarchy and accessibility best practices were followed  
-
+![sparta pixle scene](/assets/img/bansparta.JPG)
 **Collaboration & Skills Applied:**  
 - Cross-functional teamwork with marketing and event teams  
 - UI/UX prototyping and responsive web design in Figma  
