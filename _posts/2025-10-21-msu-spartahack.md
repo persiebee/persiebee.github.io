@@ -2,7 +2,7 @@
 layout: post
 title: "SpartaHack 11 – Theme & Web Redesign"
 subtitle: "Event Design & Prototyping"
-cover-img: /assets/img/skyban.JPG
+cover-img: /assets/img/treeban.JPG
 thumbnail-img: /assets/img/pixlesparta.JPG
 tags: [UX-Design, UI-Design, PixelArt, Figma, Procreate]
 ---
