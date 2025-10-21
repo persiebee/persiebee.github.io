@@ -53,4 +53,4 @@ Inspired by institutions like the Art Institute of Chicago, we prioritized bold 
 
 **Letter of Recommendation:**  
 Recommendation from Professor Casey McArdle, highlighting my leadership, collaboration, and UX research contributions during the ARTS MSU client project. 
--[View the Letter of Recommendation]([https://docs.google.com/presentation/d/1kS9PdgfxMxIDpOp23N6uP5xIbRx4Rdsb7liWUFNrDHc/edit](https://drive.google.com/file/d/1zOpfUlSEYqJKYRTwg6hWqdZDoBmw2j_z/view))
+- [View the Letter of Recommendation]([https://docs.google.com/presentation/d/1kS9PdgfxMxIDpOp23N6uP5xIbRx4Rdsb7liWUFNrDHc/edit](https://drive.google.com/file/d/1zOpfUlSEYqJKYRTwg6hWqdZDoBmw2j_z/view))
