@@ -16,7 +16,7 @@ SpartaHack is Michigan State University’s annual 24-hour hackathon where hundr
 - Prototyped updated website layouts and visual elements in Figma  
 - Supported branding consistency across web, social media, and print materials  
 - Optimized UX structure and navigation for clarity and participant engagement  
-
+![sparta pixle logo](/assets/img/pixlesparta.JPG)
 **Development Process:**  
 1. **Theme Concept:** Crafted a overgrown-tech inspired pixel art theme for the events identity  
 2. **Pixel Asset Creation:**  
