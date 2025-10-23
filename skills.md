@@ -31,3 +31,4 @@ title: My Skills
 ### Languages
 - English (Native)  
 - Japanese (Learning)  
+
