@@ -4,7 +4,7 @@ title: Education
 ---
 
 ### Michigan State University
-**Experience Architecture Major | Computer Science Minor**  
+**Experience Architecture Major | Information Technology Minor**  
 *2023 - 2027*  
 - Combining design thinking with technical implementation  
 - Coursework: UX Design, Python Programming, Web Development  
