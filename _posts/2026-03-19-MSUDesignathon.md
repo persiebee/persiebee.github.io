@@ -12,6 +12,8 @@ tags: [Graphic-Design, UX-Design, Branding, Social-Media, Figma]
 
 As a member of the marketing team for MSU Designathon, I create visual content and promotional materials to support the event’s branding and outreach. My work focuses on designing posts and graphics that align with the event identity while helping communicate key information to participants. I also contribute feedback on website design to improve clarity and overall user experience.
 
+![Meet the Team of designathon Marketing slide](/assets/img/meetd.jpg)
+
 **Key Contributions:**  
 - Design social media posts and promotional graphics aligned with the Designathon brand  
 - Create content to support event awareness, registration, and communication  
@@ -31,6 +33,8 @@ As a member of the marketing team for MSU Designathon, I create visual content a
 3. **Review & Iteration:**  
    - Share work with the team for feedback and refinement  
    - Contribute input on website design and user experience  
+
+![What is MSU Designathon info graphic](/assets/img/whatmsud.jpg)
 
 **Collaboration & Skills:**  
 - Visual design and branding for digital platforms  
