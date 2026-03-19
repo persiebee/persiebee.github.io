@@ -23,7 +23,7 @@ This is an ongoing client project involving regular communication, feedback cycl
 - Support creation of documentation so the client can manage and update the site independently  
 - Incorporate accessibility considerations, including readable structure and meaningful content organization  
 
-![WGBC Style Tile](/assets/img/pixlesparta.JPG)
+![WGBC Style Tile](/assets/img/styletylewgc.jpg)
 
 **Process:**  
 1. **Client Collaboration:**  
@@ -40,6 +40,8 @@ This is an ongoing client project involving regular communication, feedback cycl
    - Build the website using HTML, CSS, and JavaScript  
    - Organize content in a way that supports easy editing and scalability  
    - Develop documentation and guidelines so the client can maintain the site after delivery  
+
+![WGBC About Page Mockup](/assets/img/wgbwebpage.jpg)
 
 **Collaboration & Skills:**  
 - Client communication and professional presentation of work  
