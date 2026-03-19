@@ -3,7 +3,7 @@ layout: post
 title: "West Grand Boulevard Collaborative – Website Design & Development"
 subtitle: "Client Project – UX, Web Development, & Documentation"
 cover-img: /assets/img/WGBCbanner.jpg
-thumbnail-img: /assets/img/wgbcicon.jpg
+thumbnail-img: /assets/img/WGBicon.jpg
 tags: [UX-Design, Web-Development, HTML, CSS, JavaScript, WordPress]
 ---
 
