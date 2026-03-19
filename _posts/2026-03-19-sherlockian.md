@@ -2,7 +2,7 @@
 layout: post
 title: "WIDE – Content Audit & Web Improvement"
 subtitle: "Sherlockian – Content Strategy & Documentation"
-cover-img: /assets/img/sherban.jpg
+cover-img: /assets/img/sherban2.jpg
 thumbnail-img: /assets/img/sher.jpg
 tags: [Content-Strategy, UX, Web, Documentation]
 ---
