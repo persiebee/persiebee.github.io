@@ -2,7 +2,7 @@
 layout: post
 title: "MSU Designathon – Marketing & Visual Design"
 subtitle: "Marketing Team – Content, Branding, & Web Feedback"
-cover-img: /assets/img/treeban.JPG
+cover-img: /assets/img/msudesgnban.jpg
 thumbnail-img: /assets/img/desgnthonogo.jpg
 tags: [Graphic-Design, UX-Design, Branding, Social-Media, Figma]
 ---
