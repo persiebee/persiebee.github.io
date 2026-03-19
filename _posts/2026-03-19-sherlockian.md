@@ -10,22 +10,22 @@ tags: [Content-Strategy, UX, Web, Documentation]
 ### Content Audit & Web Improvement  
 **WIDE – Michigan State University**  
 
-As a **Sherlockian** with WIDE, I worked on auditing and improving large sets of web content to support clarity, accuracy, and usability. This involved reviewing existing pages, identifying issues, and organizing updates to help create a more consistent and reliable user experience.
+As a **Sherlockian** with WIDE, I audit and improve large sets of web content to support clarity, accuracy, and usability. This involves reviewing existing pages, identifying issues, and organizing updates to help create a more consistent and reliable user experience.
 
 **Key Contributions:**  
-- Audited website content and links across multiple pages to identify errors and outdated information  
-- Documented findings in structured spreadsheets to track progress and prioritize fixes  
-- Suggested replacements and improvements for broken or unclear content  
-- Helped improve overall content organization and usability  
-
+- Audit website content and links across multiple pages to identify errors and outdated information  
+- Document findings in structured spreadsheets to track progress and prioritize fixes  
+- Suggest replacements and improvements for broken or unclear content  
+- Help improve overall content organization and usability
+ 
 **Process:**  
-1. **Content Review:** Systematically checked pages for broken links, inconsistencies, and unclear information  
+1. **Content Review:** Systematically check pages for broken links, inconsistencies, and unclear information  
 2. **Documentation:**  
-   - Logged issues, status, and updates in organized tracking sheets  
-   - Clearly labeled progress to support team collaboration  
+   - Log issues, status, and updates in organized tracking sheets  
+   - Clearly label progress to support team collaboration  
 3. **Content Improvement:**  
-   - Identified better sources or replacements for outdated links  
-   - Flagged areas needing revision or clarification  
+   - Identify better sources or replacements for outdated links  
+   - Flag areas needing revision or clarification  
 
 **Collaboration & Skills:**  
 - Attention to detail across large-scale content sets  
