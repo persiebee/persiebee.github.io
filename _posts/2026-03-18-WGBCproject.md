@@ -23,6 +23,8 @@ This is an ongoing client project involving regular communication, feedback cycl
 - Support creation of documentation so the client can manage and update the site independently  
 - Incorporate accessibility considerations, including readable structure and meaningful content organization  
 
+![WGBC Style Tile](/assets/img/pixlesparta.JPG)
+
 **Process:**  
 1. **Client Collaboration:**  
    - Communicate with the client to understand their mission, content, and expectations  
