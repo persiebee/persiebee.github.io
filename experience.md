@@ -3,6 +3,12 @@ layout: page
 title: Work Experience
 ---
 
+### Glow Inside & Out (Lansing, MI)
+**Storekeeper** | *May 2026 - Ongoing*  
+- Assist customers with product selection and questions, and process and fulfill their orders.
+- Open and close the store, managing daily operations including all cash handling, inventory, and cleanliness.
+- Enter new inventory into the item system quickly and accurately, keeping product records up to date.
+
 ### Menards (Dexter, MI)
 **Cashier** | *March 2025 - July 2025*  
 - Accurately processed customer transactions, including cash, credit, and returns
