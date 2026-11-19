@@ -3,7 +3,7 @@ layout: post
 title: "SpartaHack 12 – Operations & Theme Identity Design"
 subtitle: "Event Management & Design"
 cover-img: /assets/img/sparta12logo.png
-thumbnail-img: /assets/img/sparta12logo.png
+thumbnail-img: /assets/img/sparta12web.png
 tags: [UX-Design, UI-Design, PixelArt, Figma, Leadership, Operations]
 ---
 ### Event Design & Web Prototyping  
