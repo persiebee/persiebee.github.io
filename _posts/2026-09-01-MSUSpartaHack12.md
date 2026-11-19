@@ -24,7 +24,7 @@ SpartaHack is Michigan State University’s annual 24-hour hackathon, where hund
 2. **Pixel Asset Creation:**  
    - Designed event-specific icons, badges, and merchandise, including stickers and t-shirt designs.  
    - Created color palettes and visual motifs in style tiles to unify the event’s branding.  
-![SpartaHack 12 style tile](/assets/img/stilesparta12.PNG)
+![SpartaHack 12 style tile](/assets/img/stylesparta12.png)
 3. **Web & UX Design:**  
    - Currently creating the landing page design and layout.
    - Curating future content and planning its management with the user experience in mind.
