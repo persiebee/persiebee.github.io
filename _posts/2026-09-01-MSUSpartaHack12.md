@@ -2,8 +2,8 @@
 layout: post
 title: "SpartaHack 12 – Operations & Theme Identity Design"
 subtitle: "Event Management & Design"
-cover-img: /assets/img/sparta12logo.PNG
-thumbnail-img: /assets/img/sparta12logo.PNG
+cover-img: /assets/img/sparta12logo.png
+thumbnail-img: /assets/img/sparta12logo.png
 tags: [UX-Design, UI-Design, PixelArt, Figma, Leadership, Operations]
 ---
 ### Event Design & Web Prototyping  
@@ -17,7 +17,7 @@ SpartaHack is Michigan State University’s annual 24-hour hackathon, where hund
 - Supporting brand consistency across web, social media, and merchandise  
 - Collaborating with my team to plan events and challenges for this year’s hackathon  
  
-![SpartaHack pixel logo](/assets/img/bigsparta12logo.PNG)
+![SpartaHack pixel logo](/assets/img/bigsparta12logo.png)
 
 **Development Process:**  
 1. **Theme Concept:** Developing a retro pixel vaper wave aesthetic to define the event’s art theme and visual identity.  
